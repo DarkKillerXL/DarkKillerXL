@@ -5,6 +5,7 @@
 
 
 ![DarkKillerXL's Github Stats](https://github-readme-stats.vercel.app/api?username=darkkillerxl&theme=dark&show_icons=true)
+![DarkKillerXL's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darkkillerxl)
 
 <!--
 **DarkKillerXL/DarkKillerXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
