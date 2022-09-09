@@ -4,7 +4,7 @@
 - I've also made a Discord theme called "Red 'n Black" but am no longer activly maintaining it.
 
 
-![DarkKillerXL's Github Stats](https://github-readme-stats.vercel.app/api?username=darkkillerxl&theme=dark&show_icons=true)
+![DarkKillerXL's Github Stats](https://github-readme-stats.vercel.app/api?username=darkkillerxl&theme=dark&show_icons=true)  
 ![DarkKillerXL's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darkkillerxl)
 
 <!--
