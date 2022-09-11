@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently working on a FiveM server called RotterveenRP, I've also created the MDT which is used by this server's police force.
+- I'm currently working on a FiveM server called RotterveenRP, I've also created an MDT system which is used by this server's police force.
 - I've also made a Discord theme called "Red 'n Black" but am no longer activly maintaining it.
 
 
